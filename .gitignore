@@ -1,0 +1,143 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.venv.bak/
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+.poetry/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+pytest_cache/
+.pytest_cache/
+.coverage_data/
+.cache/
+
+# Translations
+*.mo
+*.pot
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+build/sphinx/doctrees
+build/sphinx/html
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Celery beat schedule file
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.*
+.venv
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pyright type checker
+.pyright/
+
+# pytype static type analyzer
+.pytype/
+
+# Pylint
+pylint/
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS and Windows
+.DS_Store
+Thumbs.db
+
+# Others
+.vscode/
+*.env
+*.env.*
+*.log
+*.sqlite3
+*.pid
